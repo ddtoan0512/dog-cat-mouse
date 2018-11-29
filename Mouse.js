@@ -1,3 +1,3 @@
-function Mouse(){
-	this.stomach = [];
+function Mouse(name){
+	this.name = name;
 }
